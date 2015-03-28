@@ -6,7 +6,7 @@
  * @see http://demo.dev7studios.com/nivo-slider/
  */
 
-namespace xj\nivo;
+namespace xj\nivo\silder;
 
 use yii\web\AssetBundle;
 

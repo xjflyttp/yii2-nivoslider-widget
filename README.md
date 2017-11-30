@@ -1,5 +1,7 @@
 # yii2-nivoslider-widget
+```
 http://demo.dev7studios.com/nivo-slider/
+```
 
 composer.json
 ---------
@@ -11,7 +13,7 @@ composer.json
 In View
 ---------
 ```php
-use xj\nivo\SilderAsset;
+use xj\nivo\silder\SilderAsset;
 SilderAsset::register($this);
 ```
 
@@ -19,6 +21,6 @@ In Assets depends
 -----------
 ```php
 public $depends = [
-    'xj\nivo\SilderAsset',
+    'xj\nivo\silder\SilderAsset',
 ];
 ```
